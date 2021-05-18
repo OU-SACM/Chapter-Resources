@@ -1,5 +1,5 @@
 # Chapter-Resources
-This repository is intended to compile chapter event assets, share ideas for chapter activities, organize recruitment and outreach materials, organize documentation for competitions/scholarships, adapting materials from other computer science clubs, and share ideas for improving our service to the public.
+This repository is intended to compile chapter event assets, share ideas for chapter activities, organize recruitment and outreach materials, organize documentation for competitions/scholarships, adapt materials from other computer science clubs, and share ideas for improving our service to the public.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
