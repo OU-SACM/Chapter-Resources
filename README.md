@@ -1,21 +1,24 @@
 # Chapter-Resources
-This repository is intended to compile chapter event assets, share ideas for chapter activities, organize recruitment and outreach materials, organize documentation for competitions/scholarships, adapt materials from other computer science clubs, and share ideas for improving our service to the public.
+This repository provides resources for improving the service of OU's Student Chapter of ACM (SACM) to the computer science students, staff, and faculty at the University of Oklahoma's School of Computer Science and Computer Engineering.  Here, you will find an exhaustive compilation of up-to-date information for remaining in good standing with our national organization, managing our Discord channel, hosting chapter activities, organizing recruitment and outreach materials, listing documentation for professional development (like competitions/scholarships), adapting materials from other computer science clubs, and share ideas for improving our strengthening OU's computer science community.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [Chapter Tools](#chapter-tools)
-  - [Competitions](#competitions)
+  - [Member Communication Tools](#member-communication-tools)
+  - [National Organization](#national-organization)
+  - [ACM Sponsored Competitions](#acm-sponsored-competitions)
   - [Chapter Activity Ideas](#chapter-activity-ideas)
-  - [Handling Event Logistics](#handling-event-logistics)
+  - [Event Logistics](#handling-event-logistics)
+  - [Useful Readings](#useful-readings)
 
 
-### Useful Readings  
-* [ACM Student Chapter Excellence Awards](https://www.acm.org/chapters/student-chapter-excellence-awards)  
-* [ACM Chapter-in-a-Box](https://www.acm.org/chapters/chapter-in-a-box) see Student Chapter-in-a-Box. Very useful  
-* [ACM Distinguished Speaker Series](https://speakers.acm.org/)  
-* [ACM Local Activities Calendar](https://www.acm.org/chapters/local-activities)  
+# Member Communication Tools
+## Engage
+New officers should skim through the [Official SGA informational page for Engage](https://www.ou.edu/rso/engage).
 
-# Chapter Tools  
+## Discord
+Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels.
+
+## Information provided in [ACM Chapter-in-a-Box](https://www.acm.org/chapters/chapter-in-a-box) see Student Chapter-in-a-Box. Very useful  
 * **Administrative Interface** — allows us to manage our chapter’s member roster, update our chapter’s contact information.  The web account can be created at: http://campus.acm.org/public/account/chap/chap_acct.cfm.  
 
 * **Chapter Web Tools** — ACM offers Chapters the following web tools – Website hosting, wikis and blogs; for more information please go to: http://www.acm.org/ chapters/chapter-web-tools.  
@@ -30,7 +33,9 @@ This repository is intended to compile chapter event assets, share ideas for cha
 
 * **Membership Promotion** - The headquarters office can help chapters planning ACM membership drives by providing ACM Membership applications, brochures, and promotional materials. You can find more information on promotional materials at the following URL: https://www.acm.org/chapters/chapter-promotional-materials. 
 
-# Competitions
+# National Organization
+
+# ACM Sponsored Competitions
 
 #### [ACM Student Chapter Excellence Awards](https://www.acm.org/chapters/student-chapter-excellence-awards)
 * **Outstanding Chapter Activities** - For ACM student chapters that sponsor a series of exceptional activities throughout the year or have focused their efforts on a single major activity. Tell us about your chapter's most successful activity/activities – you may list a maximum of 4. Please ensure to enumerate each one and place in order from oldest to newest. Be sure to describe each activity, including: the date (add end date if it was multiple days), the type of event, how many people participated, how it was funded, and what made it a success. If you have web pages for these activities, include the URLs. Please be sure to use your chapter's official name - do not refer to your chapter as 'ACM,' 'ACM-W' or 'WICS.' Please note, links to essays will not be accepted and will disqualify your chapter.
@@ -227,3 +232,9 @@ Some venues may require ACM chapters to provide a certificate of insurance befor
 9. Will alcohol be available? If yes, who will provide
 10. Contact info to email certificate (name, fax, email)  
 Please submit this information to local_activities@acm.org, at least one week in advance of the event.
+
+### Useful Readings  
+* [ACM Student Chapter Excellence Awards](https://www.acm.org/chapters/student-chapter-excellence-awards)  
+* [ACM Chapter-in-a-Box](https://www.acm.org/chapters/chapter-in-a-box) see Student Chapter-in-a-Box. Very useful  
+* [ACM Distinguished Speaker Series](https://speakers.acm.org/)  
+* [ACM Local Activities Calendar](https://www.acm.org/chapters/local-activities) 
